@@ -103,4 +103,5 @@ endmodule
 **Half-Subtractor:**
 ![image](https://github.com/dhivyadharshini2006/HALF_ADDER_SUBTRACTOR/assets/144979490/285dd80d-6c9d-4878-956b-8ccfba634e44)
 **Result:**
-The code is excecuted successfully
+
+The code is excecuted successfully.
